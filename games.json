@@ -127,5 +127,20 @@
     "CUSA07994": "https://store.playstation.com/store/api/chihiro/00_09_000/container/NL/nl/999/EP0006-CUSA07994_00-FIFAFOOTBALL2018/1535230539000/image",
     "CUSA11100": "https://store.playstation.com/store/api/chihiro/00_09_000/container/CA/en/999/UP0002-CUSA11100_00-CODBO4THEGAME001/1540249307000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
     "CUSA12443": "https://store.playstation.com/store/api/chihiro/00_09_000/container/GB/en/19/EP0002-CUSA12443_00-CODBO4BASEBUNDLE/1545125742000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
-    "CUSA08519": "https://cdn3.dualshockers.com/wp-content/uploads/2018/10/Red-Dead-Redemption-2.png"
+    "CUSA08519": "https://cdn3.dualshockers.com/wp-content/uploads/2018/10/Red-Dead-Redemption-2.png",
+	"CUSA07669": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SE/sv/19/EP1464-CUSA07669_00-FORTNITETESTING1/1550683348000/image?w=1280&h=1280&bg_color=000000&opacity=100&_version=00_09_000",
+	"CUSA00917": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SE/sv/19/EP9000-CUSA00917_00-UNCHARTED4000000/1550709823000/image?w=1280&h=1280&bg_color=000000&opacity=100&_version=00_09_000",
+	"CUSA01519": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SE/sv/19/EP1018-PCSB00703_00-LEGOJW0000000001/1547866743000/image?w=1280&h=1280&bg_color=000000&opacity=100&_version=00_09_000",
+	"CUSA02122": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SE/sv/19/EP1018-CUSA02122_00-LEGOMARVELAVENGE/1550052909000/image?w=1280&h=1280&bg_color=000000&opacity=100&_version=00_09_000",
+	"CUSA00265": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SE/sv/19/EP4433-CUSA00265_00-MINECRAFTPS40000/1550714975000/image?w=1280&h=1280&bg_color=000000&opacity=100&_version=00_09_000",
+	"CUSA00031": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SE/sv/19/EP0001-NPEB01356_00-RAYMANLEGENDS001/1550725969000/image?w=1280&h=1280&bg_color=000000&opacity=100&_version=00_09_000",
+	"CUSA02979": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SE/sv/19/EP1018-CUSA02979_00-LEGOWORLDS000001/1550053012000/image?w=1280&h=1280&bg_color=000000&opacity=100&_version=00_09_000",
+	"CUSA07399": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SE/sv/19/EP0002-CUSA07399_00-CRASHNSANETRLOGY/1550717522000/image?w=1280&h=1280&bg_color=000000&opacity=100&_version=00_09_000",
+	"CUSA00124": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SE/sv/19/EP4345-NPEB00863_00-VIAPLAYFULLAPP00/1520524650000/image?w=1280&h=1280&bg_color=000000&opacity=100&_version=00_09_000",
+	"CUSA02827": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SE/sv/19/EP8806-NPEB02292_00-WEBMAF0HBONORDIC/1543314892000/image?w=1280&h=1280&bg_color=000000&opacity=100&_version=00_09_000",
+	"CUSA07744": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SE/sv/19/EP1018-CUSA07744_00-LEGONINJAGOMOVIE/1550053048000/image?w=1280&h=1280&bg_color=000000&opacity=100&_version=00_09_000",
+	"CUSA05078": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SE/sv/19/EP0331-CUSA05078_00-PALADINSXXXXXXXX/1550080982000/image?w=1280&h=1280&bg_color=000000&opacity=100&_version=00_09_000",
+	"CUSA11993": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SE/sv/19/EP9000-CUSA11993_00-MARVELSSPIDERMAN/1550717104000/image?w=1280&h=1280&bg_color=000000&opacity=100&_version=00_09_000",
+	"CUSA12085": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SE/sv/19/EP0002-CUSA12085_00-SPYROTRILOGY0001/1550717945000/image?w=1280&h=1280&bg_color=000000&opacity=100&_version=00_09_000",
+	"CUSA11095": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SE/sv/19/EP3678-CUSA11095_00-PP10000000000000/1547866774000/image?w=1280&h=1280&bg_color=000000&opacity=100&_version=00_09_000"
 }
